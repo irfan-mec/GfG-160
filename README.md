@@ -7,6 +7,7 @@ Welcome to my private repository for the **GfG 160 Program**! This repository is
 ## 🗂️ Repository Structure
 The repository is divided into folders corresponding to the 19 modules covered in the program:
 
+GfG_160/ │ ├── Arrays/ # Problems for Days 1–13 ├── Strings/ # Problems for Days 14–20 ├── Sorting/ # Problems for Days 21–27 ├── Searching/ # Problems for Days 28–35 ├── Matrix/ # Problems for Days 36–41 ├── Hashing/ # Problems for Days 42–49 ├── Two_Pointer_Technique/ # Problems for Days 50–61 ├── Prefix_Sum/ # Problems for Days 62–66 ├── Linked_List/ # Problems for Days 67–76 ├── Backtracking/ # Problems for Days 77–79 ├── Trees/ # Problems for Days 80–92 ├── Heap/ # Problems for Days 93–96 ├── Stack/ # Problems for Days 97–105 ├── Queue_and_Deque/ # Problems for Days 106–107 ├── Dynamic_Programming/ # Problems for Days 108–133 ├── Greedy/ # Problems for Days 134–137 ├── Graphs/ # Problems for Days 138–152 ├── Tries/ # Problems for Days 153–155 └── Bit_Manipulation/ # Problems for Days 156–160
 
 Each folder contains:
 - **Problem Statements**: Detailed descriptions of the problems.
